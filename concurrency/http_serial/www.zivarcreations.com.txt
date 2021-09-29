@@ -1,0 +1,2526 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta name="google-site-verification" content="wLYAdOluNM0sCpHNiOEWf7BI-gs8m6Ta6LdaiGpOPBs" />
+  <script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/oazH5TMBQ9nDeHYsd3vAO6MAcwM0o8xTPDfOpTzb/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <meta name="theme-color" content="#f26241">
+
+  
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1534/2397/files/pixel_32x32.jpg?v=1615310573" type="image/png" />
+  
+
+  <link rel="canonical" href="https://www.zivarcreations.com/">
+
+  <title>
+  Zivar Creations
+  </title>
+
+  
+    <meta name="description" content="We handcraft your Jewelry!">
+  
+
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="Zivar Creations">
+<meta property="og:url" content="https://www.zivarcreations.com/">
+<meta property="og:title" content="Zivar Creations">
+<meta property="og:type" content="website">
+<meta property="og:description" content="We handcraft your Jewelry!">
+
+<meta property="og:image" content="http://cdn.shopify.com/s/files/1/1534/2397/files/ZivarlogoProject2_902af0f6-2755-43b9-83a9-ecf5200fa6b6_1200x1200.png?v=1615367264">
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1534/2397/files/ZivarlogoProject2_902af0f6-2755-43b9-83a9-ecf5200fa6b6_1200x1200.png?v=1615367264">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Zivar Creations">
+<meta name="twitter:description" content="We handcraft your Jewelry!">
+
+
+  <link href="//cdn.shopify.com/s/files/1/1534/2397/t/13/assets/theme.scss.css?v=126761512504887016" rel="stylesheet" type="text/css" media="all" />
+
+  <script>
+    window.theme = window.theme || {};
+    theme.strings = {
+      cartEmpty: "Your cart is currently empty.",
+      savingHtml: "You're saving [savings]",
+      addToCart: "Add to cart",
+      soldOut: "Sold out",
+      unavailable: "Unavailable",
+      addressError: "Error looking up that address",
+      addressNoResults: "No results for that address",
+      addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+      authError: "There was a problem authenticating your Google Maps API Key."
+    };
+    theme.settings = {
+      cartType: "drawer",
+      moneyFormat: "Rs. {{amount}}"
+    };
+  </script>
+
+  <script src="//cdn.shopify.com/s/files/1/1534/2397/t/13/assets/lazysizes.min.js?v=15522312340271661705" async="async"></script>
+
+  
+
+  <script src="//cdn.shopify.com/s/files/1/1534/2397/t/13/assets/vendor.js?v=14118869943703623725" defer="defer"></script>
+
+  <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js" defer="defer"></script>
+
+  <script src="//cdn.shopify.com/s/files/1/1534/2397/t/13/assets/theme.js?v=14190347406090405025" defer="defer"></script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="K_BckoWlpj12_O_EoMth73n_0E-sSViT48lvTsSOCV4">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/15342397/digital_wallets/dialog">
+<script id="shopify-features" type="application/json">{"accessToken":"edeac8e6f51a7e6ca92d312a13bc4f52","betas":["rich-media-storefront-analytics"],"domain":"www.zivarcreations.com","predictiveSearch":true,"shopId":15342397,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "zivarmj.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"INR","rate":"1.0"};
+Shopify.country = "IN";
+Shopify.theme = {"name":"Boundless","id":120157274211,"theme_store_id":766,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn-loyalty.yotpo.com\/loader\/L4XCxA_PkYKQEvg5Jnbtmg.js?shop=zivarmj.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/c01cc0788354e5a939eabf659\/1f6868ac55b634c2f0ab3dd28.js?shop=zivarmj.myshopify.com","https:\/\/whatschat.shopiapps.in\/script\/sp-whatsapp-app.js?version=1.0\u0026shop=zivarmj.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":15342397,"offset":19800,"reqid":"d7fc77ac-6cad-46e7-b7ce-bbe0db042e4f","pageurl":"www.zivarcreations.com\/","u":"9c872f689502","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-pVJhp6mHZ0dJmJmDtYierarGeV2NSFSPthRwqW7blSQ=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a55261a7a987674749989983b5889eadaac6795d8d48548fb61470a96edb9524.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  <script src="https://cdn-widgetsrepository.yotpo.com/v1/loader/L4XCxA_PkYKQEvg5Jnbtmg" async></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 15342397,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'INR';
+var meta = {"page":{"pageType":"home"},"evids":{"pv":"Page View","vprd":"Viewed Product","ps":"Performed Search"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  <!-- Show Order Summary expanded -->
+
+
+if (Shopify.Checkout.step === "contact_information") {
+
+Checkout.$('[data-drawer-toggle="[data-order-summary]"]').click();
+
+}
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110831156-1');
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 15342397,
+      theme_id: 120157274211,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.7850eecc9b14960c103b685bb9e219861b94e38c.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.7850eecc9b14960c103b685bb9e219861b94e38c.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.7850eecc9b14960c103b685bb9e219861b94e38c.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":15342397,"isMerchantRequest":null,"themeId":120157274211,"themeCityHash":"9617237878406179881","contentLanguage":"en","currency":"INR"},"isServerSideCookieWritingEnabled":true,"expectS2SEventId":true,"expectS2SEventEmit":true},"Google Analytics":{"trackingId":"UA-110831156-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1421516287878335"],"agent":"plshopify1.2","conversionsAPIEnabled":true},"Google Gtag Pixel":{"conversionId":"AW-0","eventLabels":[{"type":"page_view","action_label":"AW-334654412\/gFjOCM7zkNcCEMzXyZ8B"},{"type":"purchase","action_label":"AW-334654412\/hlXnCNHzkNcCEMzXyZ8B"},{"type":"view_item","action_label":"AW-334654412\/jat_CNTzkNcCEMzXyZ8B"},{"type":"add_to_cart","action_label":"AW-334654412\/H6vDCNfzkNcCEMzXyZ8B"},{"type":"begin_checkout","action_label":"AW-334654412\/-zQDCNrzkNcCEMzXyZ8B"},{"type":"search","action_label":"AW-334654412\/NlR7CN3zkNcCEMzXyZ8B"},{"type":"add_payment_info","action_label":"AW-334654412\/rpg9CODzkNcCEMzXyZ8B"}],"targetCountry":"IN"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"1421516287878335","source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "storefront-renderer";
+        window.BOOMR.themeName = "Boundless";
+        window.BOOMR.themeVersion = "10.3.0";
+        window.BOOMR.shopId = 15342397;
+        window.BOOMR.themeId = 120157274211;
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({
+              producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({
+                producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+                ResourceTiming: {
+                  enabled: true,
+                  trackedResourceTypes: ["script", "img", "css"]
+                },
+              });
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-565deac0c7edc7850a7762c24c560f0a9670aa5c52a728e9dbb43d5a7887c1d4.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+</head>
+
+<body id="zivar-creations" class="template-index">
+  <div id="SearchDrawer" class="search-bar drawer drawer--top">
+    <div class="search-bar__table">
+      <form action="/search" method="get" class="search-bar__table-cell search-bar__form" role="search">
+        <div class="search-bar__table">
+          <div class="search-bar__table-cell search-bar__icon-cell">
+            <button type="submit" class="search-bar__icon-button search-bar__submit">
+              <span class="icon icon-search" aria-hidden="true"></span>
+              <span class="icon__fallback-text">Search</span>
+            </button>
+          </div>
+          <div class="search-bar__table-cell">
+            <input type="search" id="SearchInput" name="q" value="" placeholder="Search our store" aria-label="Search our store" class="search-bar__input">
+          </div>
+        </div>
+      </form>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="search-bar__icon-button search-bar__close js-drawer-close">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="icon__fallback-text">close (esc)</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="NavDrawer" class="drawer drawer--left">
+  <div id="shopify-section-sidebar-menu" class="shopify-section sidebar-menu-section"><div class="drawer__header" data-section-id="sidebar-menu" data-section-type="sidebar-menu-section">
+  <div class="drawer__close">
+    <button type="button" class="drawer__close-button js-drawer-close">
+      <span class="icon icon-x" aria-hidden="true"></span>
+      <span class="icon__fallback-text">Close menu</span>
+    </button>
+  </div>
+</div>
+<div class="drawer__inner">
+  <ul class="drawer-nav">
+    
+      
+      
+        <li class="drawer-nav__item">
+          <a href="/" class="drawer-nav__link h2" aria-current="page">Home</a>
+        </li>
+      
+    
+      
+      
+        
+
+        
+
+        <li class="drawer-nav__item" aria-haspopup="true">
+          <div class="drawer-nav__has-sublist">
+            <a href="/collections" class="drawer-nav__link h2">Catalog</a>
+            <div class="drawer-nav__toggle">
+              <button type="button" class="drawer-nav__toggle-button" aria-expanded="false" aria-label="Catalog Menu" aria-controls="Submenu-2">
+                <span class="icon icon-plus" aria-hidden="true"></span>
+              </button>
+            </div>
+          </div>
+          <ul class="drawer-nav__sublist" id="Submenu-2">
+            
+              
+                <li class="drawer-nav__item">
+                  <a href="/collections/zivar-collection" class="drawer-nav__link">All</a>
+                </li>
+              
+            
+              
+                <li class="drawer-nav__item">
+                  <a href="/collections/mangalsutra" class="drawer-nav__link">Mangalsutra</a>
+                </li>
+              
+            
+              
+                <li class="drawer-nav__item">
+                  <a href="/collections/handcrafted" class="drawer-nav__link">Handcrafted</a>
+                </li>
+              
+            
+              
+                <li class="drawer-nav__item">
+                  <a href="/collections/handcrafted-silver" class="drawer-nav__link">Silver 92.5</a>
+                </li>
+              
+            
+              
+                <li class="drawer-nav__item">
+                  <a href="/collections/oxidised-jewelry" class="drawer-nav__link">Oxidised Jewelry</a>
+                </li>
+              
+            
+              
+                <li class="drawer-nav__item">
+                  <a href="/collections/earrings" class="drawer-nav__link">Earrings</a>
+                </li>
+              
+            
+          </ul>
+        </li>
+      
+    
+      
+      
+        <li class="drawer-nav__item">
+          <a href="/pages/about-us" class="drawer-nav__link h2">Our Story</a>
+        </li>
+      
+    
+      
+      
+        <li class="drawer-nav__item">
+          <a href="/pages/contact-us" class="drawer-nav__link h2">Contact</a>
+        </li>
+      
+    
+      
+      
+        <li class="drawer-nav__item">
+          <a href="/blogs/news" class="drawer-nav__link h2">Scrapbook</a>
+        </li>
+      
+    
+
+    <li class="drawer-nav__spacer"></li>
+
+    
+      
+        <li class="drawer-nav__item drawer-nav__item--secondary">
+          <a href="/account/login" id="customer_login_link">Log in</a>
+        </li>
+        <li class="drawer-nav__item drawer-nav__item--secondary">
+          <a href="/account/register" id="customer_register_link">Create account</a>
+        </li>
+      
+    
+    
+      <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/search">Search</a></li>
+    
+      <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/refund-policy">Refund Policy</a></li>
+    
+  </ul>
+
+  <ul class="list--inline social-icons social-icons--drawer">
+    
+    
+      <li>
+        <a href="https://www.facebook.com/zivarcreations" title="Zivar Creations on Facebook">
+          <span class="icon icon-facebook" aria-hidden="true"></span>
+          <span class="visually-hidden">Facebook</span>
+        </a>
+      </li>
+    
+    
+      <li>
+        <a href="https://in.pinterest.com/madhurighonge/" title="Zivar Creations on Pinterest">
+          <span class="icon icon-pinterest" aria-hidden="true"></span>
+          <span class="visually-hidden">Pinterest</span>
+        </a>
+      </li>
+    
+    
+    
+      <li>
+        <a href="https://www.instagram.com/madhurighonge/" title="Zivar Creations on Instagram">
+          <span class="icon icon-instagram" aria-hidden="true"></span>
+          <span class="visually-hidden">Instagram</span>
+        </a>
+      </li>
+    
+    
+    
+    
+    
+    
+  </ul>
+</div>
+
+
+
+
+</div>
+  </div>
+  <div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+    <div class="drawer__header">
+      <div class="drawer__close">
+        <button type="button" class="drawer__close-button js-drawer-close">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="icon__fallback-text">Close cart</span>
+        </button>
+      </div>
+    </div>
+    <div class="drawer__inner">
+      <div id="CartContainer">
+      </div>
+    </div>
+  </div>
+
+  <div id="PageContainer">
+    <div id="shopify-section-announcement-bar" class="shopify-section">
+  
+    <style>
+      .announcement-bar {
+        background-color: #f6602f;
+      }
+
+      .announcement-bar--link:hover {
+        
+
+        
+          
+          background-color: #f87c54;
+        
+      }
+
+      .announcement-bar__message {
+        color: #ffffff;
+      }
+    </style>
+
+    
+      <div class="announcement-bar">
+    
+
+      <p class="announcement-bar__message">Get 10% Discount, Use WELCOME10 for First Purchase</p>
+
+    
+      </div>
+    
+
+  
+
+
+
+
+
+</div>
+
+    <div class="site-header-wrapper">
+      <div class="site-header-container">
+        <div id="shopify-section-header" class="shopify-section header-section"><style>
+  .site-header__logo img {
+    max-width: 450px;
+  }
+  @media screen and (max-width: 749px) {
+    .site-header__logo img {
+      max-width: 100%;
+    }
+  }
+</style>
+
+<header class="site-header" role="banner" data-section-id="header" data-section-type="header-section">
+  <div class="grid grid--no-gutters grid--table site-header__inner">
+    <div class="grid__item one-third medium-up--one-sixth">
+      <button type="button" class="site-header__link text-link site-header__toggle-nav js-drawer-open-left">
+        <span class="icon icon-hamburger" aria-hidden="true"></span>
+        <span class="icon__fallback-text">Menu</span>
+      </button>
+    </div>
+    <div class="grid__item one-third medium-up--two-thirds">
+      <div class="site-header__logo h1" itemscope itemtype="http://schema.org/Organization"><a href="/" itemprop="url" class="site-header__logo-link">
+              
+              <img class="site-header__logo-image" src="//cdn.shopify.com/s/files/1/1534/2397/files/ZivarlogoProject2_902af0f6-2755-43b9-83a9-ecf5200fa6b6_450x.png?v=1615367264"
+              srcset="//cdn.shopify.com/s/files/1/1534/2397/files/ZivarlogoProject2_902af0f6-2755-43b9-83a9-ecf5200fa6b6_450x.png?v=1615367264 1x, //cdn.shopify.com/s/files/1/1534/2397/files/ZivarlogoProject2_902af0f6-2755-43b9-83a9-ecf5200fa6b6_450x@2x.png?v=1615367264 2x" alt="Zivar Creations" itemprop="logo">
+            </a></div>
+    </div>
+
+    <div class="grid__item one-third medium-up--one-sixth text-right">
+      <a href="/search" class="site-header__link site-header__search js-drawer-open-top">
+        <span class="icon icon-search" aria-hidden="true"></span>
+        <span class="icon__fallback-text">Search</span>
+      </a>
+      <a href="/cart" class="site-header__link site-header__cart cart-link js-drawer-open-right">
+        <span class="icon icon-cart" aria-hidden="true"></span>
+        <span class="icon__fallback-text">Cart</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+
+
+</div>
+
+        <div class="action-area"></div>
+      </div>
+    </div>
+    
+
+    <main class="main-content" role="main">
+      <style>
+  .breadcrumbs {
+    margin: 0 0 2em;
+  }
+
+  .breadcrumbs__list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .breadcrumbs__item {
+    display: inline-block;
+  }
+
+  .breadcrumbs__item:not(:last-child):after {
+    border-style: solid;
+    border-width: .10em .10em 0 0;
+    content: '';
+    display: inline-block;
+    height: .20em;
+    margin: 0 .20em;
+    position: relative;
+    transform: rotate(45deg);
+    vertical-align: middle;
+    width: .20em;
+  }
+
+  .breadcrumbs__link {
+    text-decoration: underline;
+  }
+
+  .breadcrumbs__link[aria-current="page"] {
+    color: inherit;
+    font-weight: normal;
+    text-decoration: none;
+  }
+
+  .breadcrumbs__link[aria-current="page"]:hover,
+  .breadcrumbs__link[aria-current="page"]:focus {
+    text-decoration: underline;
+  }
+</style>
+      <!-- /templates/index.liquid -->
+
+
+
+
+  <div id="shopify-section-slideshow" class="shopify-section"><style data-shopify>.site-header__link,
+  .site-header__logo-link {
+    color: #ffffff !important;
+  }
+
+  .hero__text-title {
+    color: #ffffff;
+  }
+
+  .hero__slide:after {
+    background-color: #000000;
+    opacity: 0.2;
+  }
+
+  .hero__button-circle {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  .slick-prev .icon:before,
+  .slick-next .icon:before,
+  .hero__pause .icon:before {
+    color: #ffffff;
+  }
+
+  .slick-dots {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  .hero__dots:before {
+    background-color: #ffffff;
+    border-color: #ffffff;
+  }
+
+  .slick-active .hero__dots:before {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+  }</style><div data-section-id="slideshow" data-section-type="slideshow-section">
+  <div class="hero slideshow-slideshow"
+        id="Hero"
+        role="region"
+        aria-label="slideshow"
+        aria-describedby="slideshow-info"
+        tabindex="-1"
+        data-autoplay="true"
+        data-autoplayspeed="5000"
+        data-adapt="false"
+        data-slide-nav-a11y="Load slide [slide_number]"
+        data-slide-nav-active-a11y="Slide [slide_number], current"><div id="SlickSlide1" aria-hidden="true" class="hero__slide hero__slide--slider-0" >
+            <img class="hero__image hero__image--slider-0 lazyload"src="//cdn.shopify.com/s/files/1/1534/2397/files/bannerhandcrafted-1_300x.jpg?v=1615309196"data-src="//cdn.shopify.com/s/files/1/1534/2397/files/bannerhandcrafted-1_{width}x.jpg?v=1615309196"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.3333333333333333"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              alt=""
+              style="object-position: center center"><noscript>
+                <div class="hero__image-no-js hero__image--slider-0" data-image="slider-0" style="background-image: url('//cdn.shopify.com/s/files/1/1534/2397/files/bannerhandcrafted-1_2048x2048.jpg?v=1615309196');"></div>
+              </noscript><div class="hero__content-wrapper">
+            <div class="hero__content">
+              <div class="hero__content-centered"><a href="/collections/mangalsutra" class="btn">
+                    Shop Now
+                  </a></div>
+            </div>
+          </div>
+        </div><div id="SlickSlide2" aria-hidden="true" class="hero__slide hero__slide--a1891f90-292f-4ced-a486-e29174b79289" >
+            <img class="hero__image hero__image--a1891f90-292f-4ced-a486-e29174b79289 lazyload lazypreload"data-src="//cdn.shopify.com/s/files/1/1534/2397/files/bannermangalsutra-1-2_{width}x.jpg?v=1615309345"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.3333333333333333"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              alt=""
+              style="object-position: center center"><div class="hero__content-wrapper">
+            <div class="hero__content">
+              <div class="hero__content-centered"><a href="/collections/mangalsutra" class="btn">
+                    Shop Now
+                  </a></div>
+            </div>
+          </div>
+        </div><div id="SlickSlide3" aria-hidden="true" class="hero__slide hero__slide--ea874ab4-9fa9-4bf0-8ab9-95720d1a3358" >
+            <img class="hero__image hero__image--ea874ab4-9fa9-4bf0-8ab9-95720d1a3358 lazyload lazypreload"data-src="//cdn.shopify.com/s/files/1/1534/2397/files/bannerghungroo2-1_{width}x.jpg?v=1615309398"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.3333333333333333"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              alt=""
+              style="object-position: center center"><div class="hero__content-wrapper">
+            <div class="hero__content">
+              <div class="hero__content-centered"><a href="/collections/handcrafted" class="btn">
+                    Shop Now
+                  </a></div>
+            </div>
+          </div>
+        </div><div id="SlickSlide4" aria-hidden="true" class="hero__slide hero__slide--468d7c85-7c28-4f7e-8813-8a06228adcce" >
+            <img class="hero__image hero__image--468d7c85-7c28-4f7e-8813-8a06228adcce lazyload lazypreload"data-src="//cdn.shopify.com/s/files/1/1534/2397/files/bannerrudraksha-1-2_{width}x.jpg?v=1615309497"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.3333333333333333"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              alt=""
+              style="object-position: center center"><div class="hero__content-wrapper">
+            <div class="hero__content">
+              <div class="hero__content-centered"><a href="/collections/zivar-collection" class="btn">
+                    Shop Now
+                  </a></div>
+            </div>
+          </div>
+        </div><div class="hero__controls">
+        <div class="hero__dots-wrapper hero__dots-wrapper-desktop"><button class="hero__pause hero__controls-icon" aria-live="polite" aria-label="Pause slideshow" data-label-pause="Pause slideshow" data-label-play="Play slideshow">
+              <span class="hero__button-circle"></span>
+              <span class="icon icon-pause" aria-hidden="true"></span>
+              <span class="icon icon-play" aria-hidden="true"></span>
+            </button></div>
+        <ul>
+          <li>
+            <button class="hero__controls-icon slick-prev" aria-label="Previous slide">
+              <span class="hero__button-circle"></span>
+              <span class="icon icon-arrow" aria-hidden="true"></span>
+            </button>
+          </li>
+          <li>
+            <button class="hero__controls-icon slick-next" aria-label="Next slide">
+              <span class="hero__button-circle"></span>
+              <span class="icon icon-arrow" aria-hidden="true"></span>
+            </button>
+          </li>
+        </ul>
+      </div></div></div>
+<p id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</p>
+
+
+</div>
+
+  <div class="hero__header">
+   <div class="action-area">
+     <!-- action bar section -->
+<div id="shopify-section-action-bar" class="shopify-section action-bar-section"><!-- snippets/action-bar.liquid -->
+
+
+
+
+
+
+  
+  <div class="action-bar-wrapper  action-bar--hero " data-section-id="action-bar" data-section-type="action-bar-section">
+
+
+    <nav class="action-bar action-bar--has-menu" role="presentation">
+      <ul class="action-bar__menu--main action-bar__menu list--inline  action-bar--show" id="SiteNav" role="navigation">
+        
+        
+          
+          
+            <li class="action-bar__menu-item action-bar--active">
+              <a href="/" class="action-bar__link">Home</a>
+            </li>
+          
+        
+          
+          
+            
+            <li class="action-bar__menu-item action-bar--has-dropdown" data-child-list-handle="catalog" >
+              <a href="/collections" class="action-bar__link" aria-controls="Catalog">Catalog</a>
+            </li>
+          
+        
+          
+          
+            <li class="action-bar__menu-item ">
+              <a href="/pages/about-us" class="action-bar__link">Our Story</a>
+            </li>
+          
+        
+          
+          
+            <li class="action-bar__menu-item ">
+              <a href="/pages/contact-us" class="action-bar__link">Contact</a>
+            </li>
+          
+        
+          
+          
+            <li class="action-bar__menu-item ">
+              <a href="/blogs/news" class="action-bar__link">Scrapbook</a>
+            </li>
+          
+        
+      </ul>
+
+      
+        
+        
+      
+        
+        
+          <ul class="action-bar__menu--sub action-bar__menu list--inline  " id="Catalog" data-child-list-handle="catalog" role="navigation">
+            <li>
+              <button type="button" class="btn action-bar__back action-bar__link" aria-controls="SiteNav">
+                <span class="icon icon-arrow-left" aria-hidden="true"></span>
+                <span class="icon__fallback-text">Back to site navigation</span>
+              </button>
+            </li>
+            
+              <li class="action-bar__menu-item ">
+                <a href="/collections/zivar-collection" class="action-bar__link">All</a>
+              </li>
+            
+              <li class="action-bar__menu-item ">
+                <a href="/collections/mangalsutra" class="action-bar__link">Mangalsutra</a>
+              </li>
+            
+              <li class="action-bar__menu-item ">
+                <a href="/collections/handcrafted" class="action-bar__link">Handcrafted</a>
+              </li>
+            
+              <li class="action-bar__menu-item ">
+                <a href="/collections/handcrafted-silver" class="action-bar__link">Silver 92.5</a>
+              </li>
+            
+              <li class="action-bar__menu-item ">
+                <a href="/collections/oxidised-jewelry" class="action-bar__link">Oxidised Jewelry</a>
+              </li>
+            
+              <li class="action-bar__menu-item ">
+                <a href="/collections/earrings" class="action-bar__link">Earrings</a>
+              </li>
+            
+          </ul>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    </nav>
+  </div>
+
+
+
+
+</div>
+   </div>
+ </div>
+</div>
+<!-- BEGIN content_for_index --><div id="shopify-section-rich-text" class="shopify-section index-section rich-text-section"><div class="rich-text page-width" data-section-id="rich-text" data-section-type="rich-text-section">
+  <div class="grid">
+    <div class="grid__item rte text-center medium-up--two-thirds medium-up--push-one-sixth">
+      
+        <h2 class="rich-text__heading h3">Zivar Creations</h2>
+      
+      
+        <div class="rich-text__text--small">
+          <p>Zivar Creations is a humble attempt to introduce the legacy and tradition of handcrafted jewellery to the world. All our designs exhibit the artwork of handwoven Jewellery by Madhuri and her father. Please message me for custom changes.</p>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+</div><div id="shopify-section-newsletter-signup" class="shopify-section index-section newsletter-signup"><div class="newsletter text-center" data-section-id="newsletter-signup" data-section-type="newsletter-signup-section">
+  
+    <h2 >Subscribe to our newsletter</h2>
+  
+  
+    <div class="rte"><p>Promotions, new products and sales. Directly to your inbox.</p></div>
+  
+  <div class="wrapper">
+    <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+      
+      
+        <div class="input-group">
+          <input type="hidden" name="contact[tags]" value="newsletter">
+          <label for="Email" class="newsletter__label label--hidden">Email address</label>
+          <input type="email" value="" placeholder="Email address" name="contact[email]" id="Email" class="input-group__field newsletter__input" autocorrect="off" autocapitalize="off">
+          <span class="input-group__btn">
+            <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
+              <span class="newsletter__submit-text--large">Subscribe</span>
+            </button>
+          </span>
+        </div>
+      
+    </form>
+  </div>
+</div>
+
+
+
+
+</div><div id="shopify-section-featured-collection" class="shopify-section index-section featured-collection-section"><div class="featured-collection" data-section-id="featured-collection" data-section-type="featured-collection-section">
+  
+  
+
+  
+  <h2 class="visually-hidden">frontpage</h2>
+
+  <div class="grid grid--no-gutters grid--uniform collection-grid">
+    
+    
+
+
+
+    
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-beads-necklace">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/silverball-1_a48faecd-383d-42f0-9916-d5c960a75371_1024x.jpg?v=1625927880" alt="Pure Silver Beads Necklace">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure Silver Beads Necklace"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/silverball-1_a48faecd-383d-42f0-9916-d5c960a75371_{width}x.jpg?v=1625927880"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure Silver Beads Necklace</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 2,375
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/real-coral-chain-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/coralchain-1_b1447e8a-b594-410d-8afd-9a46ac7cc8a8_1024x.jpg?v=1612187974" alt="Real Coral Silver Chain Mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Real Coral Silver Chain Mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/coralchain-1_b1447e8a-b594-410d-8afd-9a46ac7cc8a8_{width}x.jpg?v=1612187974"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Real Coral Silver Chain Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,825
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-beads-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/silverbeadsmangalsutra-1_1024x.jpg?v=1612101423" alt="Pure Silver Beads Mangalsutra ">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure Silver Beads Mangalsutra "
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/silverbeadsmangalsutra-1_{width}x.jpg?v=1612101423"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure Silver Beads Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,475
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-long-mangalsutra-chain-with-changeable-lock">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/longchainmangalsutra1-1_1024x.jpg?v=1612095814" alt="Pure Silver Long Mangalsutra chain with changeable lock">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure Silver Long Mangalsutra chain with changeable lock"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/longchainmangalsutra1-1_{width}x.jpg?v=1612095814"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure Silver Long Mangalsutra chain with changeable lock</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 2,450
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/long-silver-coral-bead-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/corallongmangalsutra-1_1024x.jpg?v=1613030680" alt="Long Silver Coral Bead Mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Long Silver Coral Bead Mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/corallongmangalsutra-1_{width}x.jpg?v=1613030680"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Long Silver Coral Bead Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 3,250
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-vati-mangalsutra-silver-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/puresilvervati-1_1024x.jpg?v=1626363401" alt="Pure silver Vati mangalsutra, silver mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure silver Vati mangalsutra, silver mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/puresilvervati-1_{width}x.jpg?v=1626363401"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure silver Vati mangalsutra, silver mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 2,650
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-mangalsutra-chain-with-changeable-lock">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/silvershortmangalsutrachain3-1_1024x.jpg?v=1582612499" alt="Pure silver mangalsutra chain with changeable lock">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure silver mangalsutra chain with changeable lock"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/silvershortmangalsutrachain3-1_{width}x.jpg?v=1582612499"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure silver mangalsutra chain with changeable lock</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,725
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/long-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/longmangal-1_1024x.jpg?v=1580115061" alt="Long Mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Long Mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/longmangal-1_{width}x.jpg?v=1580115061"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Long Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,975
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/double-line-jomale-maroon-thread-coorg-wedding-necklace">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/newjomalepicmaroon3-1_1024x.jpg?v=1612189558" alt="Double line Jomale (maroon thread) Coorg Wedding Necklace">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Double line Jomale (maroon thread) Coorg Wedding Necklace"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/newjomalepicmaroon3-1_{width}x.jpg?v=1612189558"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Double line Jomale (maroon thread) Coorg Wedding Necklace</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 2,885
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/long-coral-colour-beads-and-pearl-necklace">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/coralnecklace1-1_3ad7de46-a8d5-4e95-bc68-fec4d3ac1103_1024x.jpg?v=1612102631" alt="Long Coral Colour Beads And Pearl Necklace">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Long Coral Colour Beads And Pearl Necklace"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/coralnecklace1-1_3ad7de46-a8d5-4e95-bc68-fec4d3ac1103_{width}x.jpg?v=1612102631"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Long Coral Colour Beads And Pearl Necklace</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 3,245
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/silver-delicate-wati-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/doublevatismall2-1_1024x.jpg?v=1613030594" alt="Silver Delicate Vati Mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Silver Delicate Vati Mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/doublevatismall2-1_{width}x.jpg?v=1613030594"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Silver Delicate Vati Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,625
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/vati-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/vatimangalsutra1-1_1024x.jpg?v=1612103681" alt="vati-mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="vati-mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/vatimangalsutra1-1_{width}x.jpg?v=1612103681"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Vati Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,625
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pearl-choker">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/IMG_5739_1024x.jpg?v=1538824871" alt="Pearl Choker">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pearl Choker"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/IMG_5739_{width}x.jpg?v=1538824871"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pearl Choker</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 2,175
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-gold-polish-wati-long-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/waticorallongmangalsutra-1_1024x.jpg?v=1626537697" alt="Pure Silver Gold Polish Vati Long Mangalsutra ">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure Silver Gold Polish Vati Long Mangalsutra "
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/waticorallongmangalsutra-1_{width}x.jpg?v=1626537697"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure Silver Gold Polish Vati Long Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,650
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/pure-silver-bhoar-beads-single-line-necklace">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/bhoarsingleline-1_1024x.jpg?v=1528205738" alt="Pure Silver Dholki Beads Single Line Necklace">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Pure Silver Dholki Beads Single Line Necklace"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/bhoarsingleline-1_{width}x.jpg?v=1528205738"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Pure Silver Dholki Beads Single Line Necklace</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 2,645
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/single-line-jomale-coorg-wedding-jewelry-necklace">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/singlenewjomalepicmaroon1-1_1024x.jpg?v=1612190060" alt="Single Line Jomale Coorg Wedding Jewelry Necklace">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Single Line Jomale Coorg Wedding Jewelry Necklace"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/singlenewjomalepicmaroon1-1_{width}x.jpg?v=1612190060"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Single Line Jomale Coorg Wedding Jewelry Necklace</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,765
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/moon-and-pearl-combi-pure-silver-handcrafted-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/moonmangalsutra001_8991af26-b9ec-40ed-8518-26fe6d5b9ec2_1024x.JPG?v=1538045948" alt="Moon and Pearl Combi Pure Silver Handcrafted Mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Moon and Pearl Combi Pure Silver Handcrafted Mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/moonmangalsutra001_8991af26-b9ec-40ed-8518-26fe6d5b9ec2_{width}x.JPG?v=1538045948"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Moon and Pearl Combi Pure Silver Handcrafted Mangalsutra.</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,445
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/mangalsutra-1">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/crystal-1_1024x.jpg?v=1561009116" alt="mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/crystal-1_{width}x.jpg?v=1561009116"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,285
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+        
+        <div class="product-item grid__item medium-up--one-third">
+  <div class="product-item__link-wrapper">
+    <a class="product-item__link product-item__image--margins" href="/products/silver-handcrafted-bhoar-beads-long-mangalsutra">
+      <span class="image-wrapper">
+        
+        <noscript>
+          <img class="product-item__image-no-js" src="//cdn.shopify.com/s/files/1/1534/2397/products/psrbhoarlongmangalsutrawhite001_1024x.JPG?v=1541492244" alt="Silver Handcrafted Bhoar Beads Long Mangalsutra">
+        </noscript>
+        <div class="product-item__image-container product-item__image-container--loading" style="max-width: 600px;" data-image-with-placeholder-wrapper>
+          <div class="product-item__image-wrapper" style="padding-top:100.0%">
+            
+            <img class="product-item__image lazyload"
+              alt="Silver Handcrafted Bhoar Beads Long Mangalsutra"
+              data-src="//cdn.shopify.com/s/files/1/1534/2397/products/psrbhoarlongmangalsutrawhite001_{width}x.JPG?v=1541492244"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.0"
+              data-sizes="auto"
+              data-image>
+          </div>
+          <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
+        </div>
+      
+
+        
+        <span class="product-item__meta">
+          <span class="product-item__meta__inner">
+
+            
+            <p class="product-item__title">Silver Handcrafted Bhoar Beads Long Mangalsutra</p>
+            <p class="product-item__price-wrapper">
+              
+              
+                
+                  
+                    <span class="visually-hidden">Regular price</span>
+                  
+                  Rs. 1,385
+
+              
+            </p>
+
+            
+            
+          </span>
+        </span>
+
+        
+        
+      </span>
+    </a>
+  </div>
+</div>
+
+      
+    
+  </div>
+</div>
+
+
+
+
+</div><!-- END content_for_index -->
+
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section footer-section"><footer class="site-footer" role="contentinfo">
+  
+  
+    <ul class="list--inline site-footer__linklist">
+      
+        <li class="h4"><a href="/search">Search</a></li>
+      
+        <li class="h4"><a href="/pages/refund-policy">Refund Policy</a></li>
+      
+    </ul>
+  
+
+  <div class="grid text-center large-up--grid--table">
+    <div class="grid__item large-up--one-quarter text-center">
+      <ul class="list--inline social-icons social-icons--footer">
+        
+        
+          <li>
+            <a href="https://www.facebook.com/zivarcreations" title="Zivar Creations on Facebook">
+              <span class="icon icon-facebook" aria-hidden="true"></span>
+              <span class="visually-hidden">Facebook</span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://in.pinterest.com/madhurighonge/" title="Zivar Creations on Pinterest">
+              <span class="icon icon-pinterest" aria-hidden="true"></span>
+              <span class="visually-hidden">Pinterest</span>
+            </a>
+          </li>
+        
+        
+        
+          <li>
+            <a href="https://www.instagram.com/madhurighonge/" title="Zivar Creations on Instagram">
+              <span class="icon icon-instagram" aria-hidden="true"></span>
+              <span class="visually-hidden">Instagram</span>
+            </a>
+          </li>
+        
+        
+        
+        
+        
+        
+      </ul>
+    </div>
+    <div class="grid__item large-up--one-half">
+      <span class="site-footer__copyright">&copy; 2021, <a href="/">Zivar Creations</a>. <a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore"> </a></span>
+    </div>
+    <div class="grid__item large-up--one-quarter text-center"><span class="visually-hidden">Payment methods</span>
+          <ul class="list--inline payment-icons payment-icons--footer"><li>
+                <svg class="payment-icons__icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+
+              </li><li>
+                <svg class="payment-icons__icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-diners_club"><title id="pi-diners_club">Diners Club</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z" fill="#3086C8"/></svg>
+              </li><li>
+                <svg class="payment-icons__icon" viewBox="0 0 38 24" width="38" height="24" role="img" aria-labelledby="pi-discover" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="pi-discover">Discover</title><path fill="#000" opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z" fill="#fff"/><path d="M3.57 7.16H2v5.5h1.57c.83 0 1.43-.2 1.96-.63.63-.52 1-1.3 1-2.11-.01-1.63-1.22-2.76-2.96-2.76zm1.26 4.14c-.34.3-.77.44-1.47.44h-.29V8.1h.29c.69 0 1.11.12 1.47.44.37.33.59.84.59 1.37 0 .53-.22 1.06-.59 1.39zm2.19-4.14h1.07v5.5H7.02v-5.5zm3.69 2.11c-.64-.24-.83-.4-.83-.69 0-.35.34-.61.8-.61.32 0 .59.13.86.45l.56-.73c-.46-.4-1.01-.61-1.62-.61-.97 0-1.72.68-1.72 1.58 0 .76.35 1.15 1.35 1.51.42.15.63.25.74.31.21.14.32.34.32.57 0 .45-.35.78-.83.78-.51 0-.92-.26-1.17-.73l-.69.67c.49.73 1.09 1.05 1.9 1.05 1.11 0 1.9-.74 1.9-1.81.02-.89-.35-1.29-1.57-1.74zm1.92.65c0 1.62 1.27 2.87 2.9 2.87.46 0 .86-.09 1.34-.32v-1.26c-.43.43-.81.6-1.29.6-1.08 0-1.85-.78-1.85-1.9 0-1.06.79-1.89 1.8-1.89.51 0 .9.18 1.34.62V7.38c-.47-.24-.86-.34-1.32-.34-1.61 0-2.92 1.28-2.92 2.88zm12.76.94l-1.47-3.7h-1.17l2.33 5.64h.58l2.37-5.64h-1.16l-1.48 3.7zm3.13 1.8h3.04v-.93h-1.97v-1.48h1.9v-.93h-1.9V8.1h1.97v-.94h-3.04v5.5zm7.29-3.87c0-1.03-.71-1.62-1.95-1.62h-1.59v5.5h1.07v-2.21h.14l1.48 2.21h1.32l-1.73-2.32c.81-.17 1.26-.72 1.26-1.56zm-2.16.91h-.31V8.03h.33c.67 0 1.03.28 1.03.82 0 .55-.36.85-1.05.85z" fill="#231F20"/><path d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint0_linear)"/><path opacity=".65" d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint1_linear)"/><path d="M36.57 7.506c0-.1-.07-.15-.18-.15h-.16v.48h.12v-.19l.14.19h.14l-.16-.2c.06-.01.1-.06.1-.13zm-.2.07h-.02v-.13h.02c.06 0 .09.02.09.06 0 .05-.03.07-.09.07z" fill="#231F20"/><path d="M36.41 7.176c-.23 0-.42.19-.42.42 0 .23.19.42.42.42.23 0 .42-.19.42-.42 0-.23-.19-.42-.42-.42zm0 .77c-.18 0-.34-.15-.34-.35 0-.19.15-.35.34-.35.18 0 .33.16.33.35 0 .19-.15.35-.33.35z" fill="#231F20"/><path d="M37 12.984S27.09 19.873 8.976 23h26.023a2 2 0 002-1.984l.024-3.02L37 12.985z" fill="#F48120"/><defs><linearGradient id="pi-paint0_linear" x1="21.657" y1="12.275" x2="19.632" y2="9.104" gradientUnits="userSpaceOnUse"><stop stop-color="#F89F20"/><stop offset=".25" stop-color="#F79A20"/><stop offset=".533" stop-color="#F68D20"/><stop offset=".62" stop-color="#F58720"/><stop offset=".723" stop-color="#F48120"/><stop offset="1" stop-color="#F37521"/></linearGradient><linearGradient id="pi-paint1_linear" x1="21.338" y1="12.232" x2="18.378" y2="6.446" gradientUnits="userSpaceOnUse"><stop stop-color="#F58720"/><stop offset=".359" stop-color="#E16F27"/><stop offset=".703" stop-color="#D4602C"/><stop offset=".982" stop-color="#D05B2E"/></linearGradient></defs></svg>
+              </li><li>
+                <svg class="payment-icons__icon" width="38" height="24" role="img" aria-labelledby="pi-jcb" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg"><title id="pi-jcb">JCB</title><g fill="none" fill-rule="evenodd"><g fill-rule="nonzero"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/></g><path d="M11.5 5H15v11.5a2.5 2.5 0 0 1-2.5 2.5H9V7.5A2.5 2.5 0 0 1 11.5 5z" fill="#006EBC"/><path d="M18.5 5H22v11.5a2.5 2.5 0 0 1-2.5 2.5H16V7.5A2.5 2.5 0 0 1 18.5 5z" fill="#F00036"/><path d="M25.5 5H29v11.5a2.5 2.5 0 0 1-2.5 2.5H23V7.5A2.5 2.5 0 0 1 25.5 5z" fill="#2AB419"/><path d="M10.755 14.5c-1.06 0-2.122-.304-2.656-.987l.78-.676c.068 1.133 3.545 1.24 3.545-.19V9.5h1.802v3.147c0 .728-.574 1.322-1.573 1.632-.466.144-1.365.221-1.898.221zm8.116 0c-.674 0-1.388-.107-1.965-.366-.948-.425-1.312-1.206-1.3-2.199.012-1.014.436-1.782 1.468-2.165 1.319-.49 3.343-.261 3.926.27v.972c-.572-.521-1.958-.898-2.919-.46-.494.226-.737.917-.744 1.448-.006.56.245 1.252.744 1.497.953.467 2.39.04 2.919-.441v1.01c-.358.255-1.253.434-2.129.434zm8.679-2.587c.37-.235.582-.567.582-1.005 0-.438-.116-.687-.348-.939-.206-.207-.58-.469-1.238-.469H23v5h3.546c.696 0 1.097-.23 1.315-.415.283-.25.426-.53.426-.96 0-.431-.155-.908-.737-1.212zm-1.906-.281h-1.428v-1.444h1.495c.956 0 .944 1.444-.067 1.444zm.288 2.157h-1.716v-1.513h1.716c.986 0 1.083 1.513 0 1.513z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+              </li><li>
+                <svg class="payment-icons__icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-maestro"><title id="pi-maestro">Maestro</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#00A2E5" cx="23" cy="12" r="7"/><path fill="#7375CF" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+              </li><li>
+                <svg class="payment-icons__icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+              </li><li>
+                <svg class="payment-icons__icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+              </li></ul></div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+  </div>
+
+  
+  
+    <script id="CartTemplate" type="text/template">
+      
+        <form action="/cart" method="post" novalidate class="cart ajaxcart">
+          <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+            {{#items}}
+            <div class="ajaxcart__row">
+              <div class="ajaxcart__product" data-line="{{line}}">
+                <div class="grid grid--half-gutters">
+                  <div class="grid__item one-quarter">
+                    <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+                  </div>
+                  <div class="grid__item three-quarters">
+                    <div class="ajaxcart__product-name-wrapper">
+                      <a href="{{url}}" class="ajaxcart__product-name h4">{{name}}</a>
+                      {{#if variation}}
+                        <span class="ajaxcart__product-meta">{{variation}}</span>
+                      {{/if}}
+                      {{#if sellingPlanAllocation}}
+                        <span class="ajaxcart__product-meta">{{sellingPlanAllocation.selling_plan.name}}</span>
+                      {{/if}}
+                      {{#properties}}
+                        {{#each this}}
+                          {{#if this}}
+                            <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                          {{/if}}
+                        {{/each}}
+                      {{/properties}}
+                    </div>
+
+                    <div class="grid">
+                      <div class="grid__item one-half">
+                        <div class="ajaxcart__qty">
+                          <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}" aria-label="Reduce item quantity by one">
+                            <span class="icon icon-minus" aria-hidden="true"></span>
+                            <span class="icon__fallback-text" aria-hidden="true">&minus;</span>
+                          </button>
+                          <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                          <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+                            <span class="icon icon-plus" aria-hidden="true"></span>
+                            <span class="icon__fallback-text" aria-hidden="true">+</span>
+                          </button>
+                        </div>
+                      </div>
+                      <div class="grid__item one-half text-right">
+                        {{#if discountsApplied}}
+                          <span class="visually-hidden">Regular price</span>
+                          <del>{{{originalLinePrice}}}</del>
+                          <span class="visually-hidden">Sale price</span>
+                          <span class="order-discount">{{{linePrice}}}</span>
+                        {{else}}
+                          {{{linePrice}}}
+                        {{/if}}
+                        {{#if unitPrice}}
+                          <span class="visually-hidden">Unit price</span>
+                          <span class="product-price-unit">
+                            
+
+                            <span>{{{ unitPrice.price }}}</span><span aria-hidden="true">/</span><span class="visually-hidden">&nbsp;per&nbsp;</span>{{#if unitPrice.addRefererenceValue }}{{{ unitPrice.reference_value }}}{{/if}}{{{ unitPrice.reference_unit }}}
+                          </span>
+                        {{/if}}
+                      </div>
+                    </div>
+                    {{#if discountsApplied}}
+                      <div class="grid grid--table">
+                        <div class="grid__item text-right">
+                          <ul class="order-discount order-discount--list order-discount--title order-discount--cart order-discount--cart-title" aria-label="Discount">
+                            {{#each discounts}}
+                              <li class="order-discount__item">
+                                <span class="icon icon-saletag" aria-hidden="true"></span>{{ this.discount_application.title }} (-{{{ this.formattedAmount }}})
+                              </li>
+                            {{/each}}
+                          </ul>
+                        </div>
+                      </div>
+                    {{/if}}
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{/items}}
+
+            
+          </div>
+          <div class="ajaxcart__footer ajaxcart__footer--fixed">
+            <div class="ajaxcart__subtotal">
+              {{#if cartDiscountsApplied}}
+                <div class="grid grid--table ajaxcart__discounts">
+                  {{#each cartDiscounts}}
+                    <div class="grid__item two-thirds">
+                      <span class="order-discount order-discount--title order-discount--cart-title">
+                        <span class="icon icon-saletag" aria-hidden="true"></span><span class="visually-hidden">Discount:</span>{{ this.title }}
+                      </span>
+                    </div>
+                    <div class="grid__item one-third text-right">
+                      <span class="order-discount">-{{{ this.formattedAmount }}}</span>
+                    </div>
+                  {{/each}}
+                </div>
+              {{/if}}
+              <div class="grid grid--table">
+                <div class="grid__item two-thirds">
+                  <span class="ajaxcart__subtotal-title h3">Subtotal</span>
+                </div>
+                <div class="grid__item one-third text-right">
+                  <span>{{{totalPrice}}}</span>
+                </div>
+              </div>
+            </div>
+
+            <p class="text-center ajaxcart__policies txt--minor rte">
+Tax included and shipping calculated at checkout
+
+            </p>
+            <button type="submit" class="btn btn--full cart__checkout" name="checkout">
+              Check out
+            </button>
+          </div>
+        </form>
+      
+    </script>
+    <script id="JsQty" type="text/template">
+      
+        <div class="js-qty">
+          <button type="button" class="js-qty__adjust js-qty__adjust--minus" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+            <span class="icon icon-minus" aria-hidden="true"></span>
+            <span class="icon__fallback-text" aria-hidden="true">&minus;</span>
+          </button>
+          <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+          <button type="button" class="js-qty__adjust js-qty__adjust--plus" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+            <span class="icon icon-plus" aria-hidden="true"></span>
+            <span class="icon__fallback-text" aria-hidden="true">+</span>
+          </button>
+        </div>
+      
+    </script>
+
+  
+  <ul hidden>
+    <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    <li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+  </ul>
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+ var jQ;
+ var isjQExists=false;
+  function showWPdiv(){
+   if(!isjQExists){
+      jQ=jQuery.noConflict(true);
+    } else{
+     jQ = jQuery;
+    }
+   
+  
+    if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+      
+      if (jQ("#wp_share")[0]){
+        jQ("#wp_share").show();
+      }
+    }
+    
+    jQ(".wa_btn").attr("display", "");
+    
+    if (jQ(".wa_btn.wp_share_btn")[0]){
+      jQ('.wa_btn.wp_share_btn').attr({ "data-bdcolor":'', "data-bgcolor":'', "data-fcolor":'', "data-temp":'' });                             
+    }
+   
+  }
+  
+  if (typeof jQuery == 'undefined'){
+    var script = document.createElement('script');
+    script.src = '//code.jquery.com/jquery-1.11.0.min.js';
+    script.type = 'text/javascript';
+    script.onload = showWPdiv;
+    isjQExists=false;
+    document.getElementsByTagName('head')[0].appendChild(script);
+  }
+  else{
+    jQ=jQuery;
+    isjQExists=true;
+    jQ(document).ready(function() {
+      showWPdiv(true);
+    });
+  } 
+  
+</script>
+
+<script src="https://shopiapps.in/whatsapp-share/whatsapp_inc.php?shop=zivarmj.myshopify.com" type="text/javascript"></script>
+
+
+<div id="wp_share">
+</div>
+
+
+
+
+
+
+
+<style>
+  #wp_share {display:none;width:100%;position:fixed;no:%;:%;z-index:9999999;background-color:#214040;color:#ffffff;text-align:center;font-size:16px;font-weight:bold;font-family:Arial;}
+  #wp_share_content {padding:7px 10px 5px;}
+  #wp_share img {margin-left:10px;height:26px;vertical-align:middle;border:0;}
+  #wp_share a {color:#ffffff;text-decoration:none;}
+</style>
+
+
+
+
+
+</body>
+
+</html>
